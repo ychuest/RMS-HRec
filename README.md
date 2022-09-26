@@ -8,7 +8,7 @@ __Paper__: Automatic Meta-Path Discovery for Effective Graph-Based Recommendatio
 pytorch == 1.5.0
 dgl == 0.6.0
 ```
-Note that `dgl` should be installed according to the instructions on [DGL official website](https://www.dgl.ai/pages/start.html)
+Note that `dgl` should be installed according to the instructions on [DGL official website](https://www.dgl.ai/pages/start.html). __DO NOT__ use `pip install dgl`
 
 ### To run the code
 ```shell
